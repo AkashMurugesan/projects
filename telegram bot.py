@@ -3,7 +3,7 @@ import requests
 import time
 import random
 import json
-token="1482279823:AAE4lNuSC5KZVLBPqhoSCKrSzV6_0Cw-0ic"
+token="bot-token"
 def handle(msg):
     user_name=msg["from"]["first_name"]
     chat_id=msg["chat"]["id"]
