@@ -86,7 +86,7 @@ def handle(msg):
         elif txt=="where r u" or txt=="where r u from":
             bot.sendMessage(chat_id,"Iam from thanjavur")
             bot.sendSticker(chat_id,"CAACAgIAAxkBAAEBhe1fnkNyX8vFN2ZV-ylcSfLldinGVQAChAAD9wLID35NW08EzZwkHgQ")
-        elif txt=="fuck"  or txt=="ass whole":
+        elif txt=="fuck"  or txt=="bastard":
             bot.sendMessage(chat_id,"ohtha paathu pesu da")
             bot.sendSticker(chat_id,"CAACAgIAAxkBAAEBhflfnkTX9LFh1yRMdlZrpGKuG3ejUAAC0gEAAsxUSQkhDZIKHVZCGR4E")
         elif txt=="naruto" or txt=="sauske" or txt=="sakura" or txt=="itachi" or txt=="kakashi":
