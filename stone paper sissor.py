@@ -27,7 +27,7 @@ while True:
                 computer_score+=1
                 print("Score card\nplayer = "+str(player_score)+"\ncomputer = "+str(computer_score))
         else:
-            print("Enter the Number between 1 to 3")
+            print("Invalid")
     except:
         print("please Enter a Number")
     if computer_score==3:
