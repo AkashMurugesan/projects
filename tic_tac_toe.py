@@ -107,7 +107,7 @@ while True:
         main()
     else:
         break
-# working of Enumerate fuction
+# working of Enumerate function
 '''
 possible_move=[]
 for i in range(len(box)):
