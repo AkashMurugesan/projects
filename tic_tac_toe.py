@@ -107,3 +107,10 @@ while True:
         main()
     else:
         break
+# working of Enumerate fuction
+'''
+possible_move=[]
+for i in range(len(box)):
+    if box[i]==" " and i!=0:
+        possible_move.append(i)
+'''
